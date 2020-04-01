@@ -1,0 +1,13 @@
+to run this code you need to open terminal and go to the directory where you saved these files
+
+to run:
+make a test.txt file in the directory 
+->  touch test.txt 
+
+to compile module 
+->  make
+
+to load the module
+->  sudo insmod ./final_kbd_logger.ko
+
+if encountered any issues contact vatsal for it.

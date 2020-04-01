@@ -1,0 +1,7 @@
+open gui_tkinter.py in vmware linux os using
+
+1) sudo python3 ./gui_tkinter.py
+
+install tkinter matplotlib and python3 in your linux first.
+
+error in snmp file is common so please call vatsal if found any issues resolving it.
